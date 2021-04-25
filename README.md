@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TomasTV
 - 👀 I’m interested in learning all kind of new things!
-- 🌱 I’m currently expanding my skills in front adn back end technologies
+- 🌱 I’m currently expanding my skills in front as well as back end technologies
 - 📫 You can reach me at toralestomas@gmail.com
 
 <!---
