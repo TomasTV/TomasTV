@@ -20,7 +20,7 @@ return dev;
 
 Full Stack Developer | React/ReactNative & Redux | Javascript | ES6 | HTML5 & CSS3 | Node.js | Express | Testing (Cypress)| Sequelize & PostgreSQL
 
-![GitHub Logo](/images/react.jpg)
+![Image of React](https://www.pragma.com.co/hubfs/h_react.jpg)
 
 **Quotes that inspires me ⭐**
 
