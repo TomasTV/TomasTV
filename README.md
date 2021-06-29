@@ -1,4 +1,4 @@
-const dev = new Developer({
+``` const dev = new Developer({
   name: 'Tomas Torales',
   languages: ['Javascript, Typescript'],
   frameworks: ['React-Redux', 'ReactNative', 'NodeJs', 'Express'],
@@ -10,7 +10,7 @@ const dev = new Developer({
 });
 
 return dev;
-
+```
 
 - 👋 Hi, I’m @TomasTV
 - 👀 I’m interested in learning all kind of new technologies!
