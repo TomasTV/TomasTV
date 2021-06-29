@@ -20,6 +20,8 @@ return dev;
 
 Full Stack Developer | React/ReactNative & Redux | Javascript | ES6 | HTML5 & CSS3 | Node.js | Express | Testing (Cypress)| Sequelize & PostgreSQL
 
+![GitHub Logo](/images/react.jpg)
+
 Quotes that inspires me ⭐
 
 > “Code never lies; comments sometimes do.” 
