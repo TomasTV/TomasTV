@@ -1,3 +1,17 @@
+const dev = new Developer({
+  name: 'Tomas Torales',
+  languages: ['Javascript, Typescript'],
+  frameworks: ['React-Redux', 'ReactNative', 'NodeJs', 'Express'],
+  databases: ['PostreSQL', 'MySQL'],
+  others: ['ReactStrap', 'CSS3 & HTML5'],
+  code: project => {
+    console.log('Starting to code on ' + project);
+  }
+});
+
+return dev;
+
+
 - 👋 Hi, I’m @TomasTV
 - 👀 I’m interested in learning all kind of new technologies!
 - 🌱 I’m currently expanding my skills in front as well as back end technologies
