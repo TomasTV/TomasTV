@@ -1,4 +1,5 @@
-``` const dev = new Developer({
+``` javascript 
+const dev = new Developer({
   name: 'Tomas Torales',
   languages: ['Javascript, Typescript'],
   frameworks: ['React-Redux', 'ReactNative', 'NodeJs', 'Express'],
