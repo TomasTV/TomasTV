@@ -1,4 +1,4 @@
-![Image of me](https://media-exp3.licdn.com/dms/image/C4E03AQFA7FgeWNWzzw/profile-displayphoto-shrink_200_200/0/1599219900106?e=1629331200&v=beta&t=lHn-Vl97_a2pAnQ0258aXZGJFfrg9Zr7lq6mzq0Vl_I)
+<!-- ![Image of me](https://media-exp3.licdn.com/dms/image/C4E03AQFA7FgeWNWzzw/profile-displayphoto-shrink_200_200/0/1599219900106?e=1629331200&v=beta&t=lHn-Vl97_a2pAnQ0258aXZGJFfrg9Zr7lq6mzq0Vl_I) -->
 
 ``` javascript 
 const dev = new Developer({
