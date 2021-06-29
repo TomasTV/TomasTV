@@ -22,7 +22,7 @@ Full Stack Developer | React/ReactNative & Redux | Javascript | ES6 | HTML5 & CS
 
 Quotes that inspires me ⭐
 
-<img src="C:\Users\Samsung\Pictures" width="350" title="hover text">
+<img src="C:\Users\Samsung\Pictures\react.jpg" width="350" title="hover text">
 
 “Code never lies; comments sometimes do.” 
 — Ron Jeffries
