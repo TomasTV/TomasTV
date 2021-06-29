@@ -22,7 +22,7 @@ Full Stack Developer | React/ReactNative & Redux | Javascript | ES6 | HTML5 & CS
 
 ![GitHub Logo](/images/react.jpg)
 
-Quotes that inspires me ⭐
+**Quotes that inspires me ⭐**
 
 > “Code never lies; comments sometimes do.” 
 > — Ron Jeffries
