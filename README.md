@@ -4,7 +4,7 @@
 const dev = new Developer({
   name: 'Tomas Torales',
   languages: ['Javascript, Typescript'],
-  frameworks: ['React-Redux', 'ReactNative', 'NodeJs', 'Express', 'NestJs'],
+  frameworks: ['React-Redux', 'ReactNative', 'NodeJs', 'Express', 'NestJs', 'NextJs'],
   databases: ['PostgreSQL', 'Sequelize'],
   others: ['ReactStrap', 'CSS3 & HTML5'],
   code: project => {
