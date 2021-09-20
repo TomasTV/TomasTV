@@ -5,7 +5,7 @@ const dev = new Developer({
   name: 'Tomas Torales',
   languages: ['Javascript, Typescript, Python'],
   frameworks: ['React-Redux', 'ReactNative', 'NodeJs', 'Express', 'NestJs', 'NextJs'],
-  databases: ['PostgreSQL', 'Sequelize', 'MongoDB', 'Mongoose'],
+  databases: ['PostgreSQL', 'Sequelize', 'MongoDB', 'Mongoose', 'MySQL'],
   others: ['ReactStrap', 'CSS3 & HTML5', 'Tailwind', 'MaterialUI'],
   code: project => {
     console.log('Starting to code on ' + project);
