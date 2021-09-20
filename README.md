@@ -3,7 +3,7 @@
 ``` javascript 
 const dev = new Developer({
   name: 'Tomas Torales',
-  languages: ['Javascript, Typescript'],
+  languages: ['Javascript, Typescript, Python'],
   frameworks: ['React-Redux', 'ReactNative', 'NodeJs', 'Express', 'NestJs', 'NextJs'],
   databases: ['PostgreSQL', 'Sequelize', 'MongoDB', 'Mongoose'],
   others: ['ReactStrap', 'CSS3 & HTML5', 'Tailwind', 'MaterialUI'],
