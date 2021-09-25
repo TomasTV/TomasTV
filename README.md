@@ -3,11 +3,12 @@
 ``` javascript 
 const dev = new Developer({
   name: 'Tomas Torales',
-  languages: ['Javascript, Typescript, Python'],
+  languages: ['Javascript, Typescript],
   frameworks: ['React-Redux', 'ReactNative', 'NodeJs', 'Express', 'NestJs', 'NextJs'],
   databases: ['PostgreSQL', 'Sequelize', 'MongoDB', 'Mongoose', 'MySQL'],
   containers: ['Docker'],
   others: ['ReactStrap', 'CSS3 & HTML5', 'Tailwind', 'MaterialUI', 'Sass'],
+  learning: ['Go']
   code: project => {
     console.log('Starting to code on ' + project);
   }
