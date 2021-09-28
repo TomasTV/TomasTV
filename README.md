@@ -22,7 +22,6 @@ return dev;
 - 🌱 I’m currently expanding my skills in front as well as back end technologies
 - 📫 You can reach me at toralestomas@gmail.com || www.linkedin.com/in/tomás-torales-vazquez
 
-Full Stack Developer | React/ReactNative & Redux | Javascript | ES6 | HTML5 & CSS3 | Node.js | Express | Testing (Cypress)| Sequelize & PostgreSQL
 
 ![Image of React](https://www.pragma.com.co/hubfs/h_react.jpg)
 
