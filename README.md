@@ -1,5 +1,11 @@
 <!-- ![Image of me](https://media-exp3.licdn.com/dms/image/C4E03AQFA7FgeWNWzzw/profile-displayphoto-shrink_200_200/0/1599219900106?e=1629331200&v=beta&t=lHn-Vl97_a2pAnQ0258aXZGJFfrg9Zr7lq6mzq0Vl_I) -->
 
+- 👋 Hi, I’m @TomasTV
+- 👀 I’m interested in learning all kind of new technologies!
+- 🌱 I’m currently expanding my skills in front as well as back end technologies
+- 📫 You can reach me at toralestomas@gmail.com || www.linkedin.com/in/tomás-torales-vazquez
+
+
 ``` javascript 
 const dev = new Developer({
   name: 'Tomas Torales Vazquez',
@@ -16,12 +22,6 @@ const dev = new Developer({
 
 return dev;
 ```
-
-- 👋 Hi, I’m @TomasTV
-- 👀 I’m interested in learning all kind of new technologies!
-- 🌱 I’m currently expanding my skills in front as well as back end technologies
-- 📫 You can reach me at toralestomas@gmail.com || www.linkedin.com/in/tomás-torales-vazquez
-
 
 ![Image of React](https://www.pragma.com.co/hubfs/h_react.jpg)
 
