@@ -14,7 +14,7 @@ const dev = new Developer({
   databases: ['PostgreSQL', 'Sequelize', 'MongoDB', 'Mongoose', 'MySQL'],
   containers: ['Docker'],
   others: ['ReactStrap', 'CSS3 & HTML5', 'Tailwind', 'MaterialUI', 'Sass', 'Bootstrap'],
-  learning: ['Go'],
+  learning: ['Go', 'Angular'],
   code: project => {
     console.log('Starting to code on ' + project);
   }
