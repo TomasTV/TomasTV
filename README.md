@@ -23,6 +23,7 @@ const dev = new Developer({
 
 return dev;
 
+
 ```
 
 ![Image of React](https://www.pragma.com.co/hubfs/h_react.jpg)
