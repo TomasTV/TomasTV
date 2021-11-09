@@ -11,11 +11,11 @@
 const dev = new Developer({
   name: 'Tomas Torales Vazquez',
   languages: ['Javascript, Typescript],
-  frameworks: ['React & Redux', 'React Native', 'NodeJs', 'Express', 'NestJs', 'NextJs'],
+  frameworks: ['React & Redux', 'React Native', 'NodeJs', 'Express', 'NestJs', 'NextJs', 'Angular'],
   databases: ['PostgreSQL', 'Sequelize', 'MongoDB', 'Mongoose', 'MySQL'],
   containers: ['Docker'],
   others: ['ReactStrap', 'CSS3 & HTML5', 'Tailwind', 'MaterialUI', 'Sass', 'Bootstrap'],
-  learning: ['Go', 'Cloud Architecture', 'Angular'],
+  learning: ['Go', 'Cloud Architecture'],
   code: project => {
     console.log('Starting to code on ' + project);
   }
