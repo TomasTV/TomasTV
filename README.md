@@ -41,5 +41,5 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-Im currently coding in BitBucket, sorry GitHub...
+Since 1st of November i've been coding on BitBucket, sorry GitHub...
 
