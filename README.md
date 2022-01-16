@@ -16,7 +16,7 @@ const dev = new Developer({
   others: ['ReactStrap', 'CSS3 & HTML5', 'Tailwind', 'MaterialUI', 'Sass', 'Bootstrap'],
   containers: ['Docker'],
   automation: ['Ansible'],
-  learning: ['Go', 'Cloud Architecture'],
+  learning: ['Go', 'Cloud Architecture', 'Haskell'],
   code: project => {
     console.log('Starting to code on ' + project);
   }
