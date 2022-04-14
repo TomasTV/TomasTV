@@ -14,7 +14,7 @@ const dev = new Developer({
   frameworks: ['React & Redux', 'React Native', 'NodeJs', 'Express', 'NestJs', 'NextJs', 'Angular'],
   databases: ['PostgreSQL', 'Sequelize', 'MongoDB', 'Mongoose', 'MySQL'],
   others: ['ReactStrap', 'CSS3 & HTML5', 'Tailwind', 'MaterialUI', 'Sass', 'Bootstrap'],
-  containers: ['Docker'],
+  containers: ['Docker', 'Chef'],
   automation: ['Ansible'],
   orchestrators: ['Kubernetes'],
   learning: ['Go', 'Cloud Architecture', 'Haskell', 'Rust'],
