@@ -15,6 +15,7 @@ const dev = new Developer({
   databases: ['PostgreSQL', 'Sequelize', 'MongoDB', 'Mongoose', 'MySQL'],
   others: ['ReactStrap', 'CSS3 & HTML5', 'Tailwind', 'MaterialUI', 'Sass', 'Bootstrap'],
   containers: ['Docker', 'Chef'],
+  IaC: ['Terraform']
   automation: ['Ansible'],
   orchestrators: ['Kubernetes'],
   learning: ['Go', 'Cloud Architecture', 'Haskell', 'Rust'],
