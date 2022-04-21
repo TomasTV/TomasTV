@@ -2,8 +2,6 @@
 
 
 - 👋 Hi, I’m Tomás
-- 👀 I’m interested in learning all kind of new technologies
-- 🌱 I’m currently expanding my skills in front as well as back end technologies
 - 📫 You can reach me at toralestomas@gmail.com || www.linkedin.com/in/tomás-torales-vazquez
 
 
