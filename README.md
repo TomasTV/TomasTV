@@ -10,7 +10,7 @@ const dev = new Developer({
   name: 'Tomas Torales Vazquez',
   languages: ['Javascript', 'Typescript', 'Python'],
   frameworks: ['React & Redux', 'React Native', 'NodeJs', 'Express', 'NestJs', 'NextJs', 'Angular'],
-  databases: ['PostgreSQL', 'Sequelize', 'MongoDB', 'Mongoose', 'MySQL'],
+  databases: ['PostgreSQL', 'Sequelize', 'MongoDB', 'Mongoose', 'MySQL', 'GraphQL'],
   others: ['ReactStrap', 'CSS3 & HTML5', 'Tailwind', 'MaterialUI', 'Sass', 'Bootstrap'],
   containers: ['Docker', 'Chef'],
   IaC: ['Terraform'],
