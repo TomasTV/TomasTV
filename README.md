@@ -12,9 +12,9 @@ const dev = new Developer({
   frameworks: ['React & Redux', 'React Native', 'NodeJs', 'Express', 'NestJs', 'NextJs', 'Angular'],
   databases: ['PostgreSQL', 'Sequelize', 'MongoDB', 'Mongoose', 'MySQL', 'GraphQL'],
   others: ['ReactStrap', 'CSS3 & HTML5', 'Tailwind', 'MaterialUI', 'Sass', 'Bootstrap'],
-  containers: ['Docker', 'Chef'],
+  containers: ['Docker'],
   IaC: ['Terraform'],
-  automation: ['Ansible'],
+  automation: ['Ansible', 'Chef'],
   orchestrators: ['Kubernetes'],
   learning: ['Go', 'Cloud Architecture', 'Haskell', 'Rust'],
   code: project => {
