@@ -13,8 +13,8 @@ const dev = new Developer({
   databases: ['PostgreSQL', 'Sequelize', 'MongoDB', 'Mongoose', 'MySQL', 'GraphQL'],
   others: ['ReactStrap', 'CSS3 & HTML5', 'Tailwind', 'MaterialUI', 'Sass', 'Bootstrap'],
   containers: ['Docker'],
-  IaC: ['Terraform'],
-  automation: ['Ansible', 'Chef'],
+  IaC: ['Terraform', 'Serverless'],
+  automation: ['Ansible', 'Chef', 'Puppet'],
   orchestrators: ['Kubernetes'],
   learning: ['Go', 'Cloud Architecture', 'Haskell', 'Rust'],
   code: project => {
