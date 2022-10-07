@@ -16,7 +16,7 @@ const dev = new Developer({
   IaC: ['Terraform', 'Serverless'],
   automation: ['Ansible', 'Chef', 'Puppet'],
   orchestrators: ['Kubernetes'],
-  learning: ['Go', 'Cloud Architecture', 'Haskell', 'Rust'],
+  learning: ['Go', 'Cloud Architecture', 'Haskell', 'Rust', 'C/C++'],
   code: project => {
     console.log('Starting to code on ' + project);
   }
