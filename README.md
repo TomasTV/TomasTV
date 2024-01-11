@@ -6,7 +6,7 @@
 
 
 ``` javascript 
-const dev = new Developer({
+const dev = new DeveloperDevOps({
   name: 'Tomas Torales Vazquez',
   languages: ['Javascript', 'Typescript', 'Python'],
   frameworks: ['React & Redux', 'React Native', 'NodeJs', 'Express', 'NestJs', 'NextJs', 'Angular'],
@@ -16,7 +16,8 @@ const dev = new Developer({
   IaC: ['Terraform', 'Serverless'],
   automation: ['Ansible', 'Chef', 'Puppet'],
   orchestrators: ['Kubernetes'],
-  learning: ['Go', 'Cloud Architecture', 'Haskell', 'Rust', 'C/C++'],
+  other: ['ArgoCD', 'AWS', 'GCP(Little)', 'DigitalOcean', 'Azure(Little)', 'GitLab']
+  learning: ['Go', 'TensorFlow', 'JupyterNotebook', 'Rust', 'C/C++'],
   code: project => {
     console.log('Starting to code on ' + project);
   }
