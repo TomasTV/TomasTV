@@ -6,7 +6,7 @@
 
 
 ``` javascript 
-const dev = new DeveloperDevOps({
+const dev = new DevOps({
   name: 'Tomas Torales Vazquez',
   languages: ['Javascript', 'Typescript', 'Python'],
   frameworks: ['React & Redux', 'React Native', 'NodeJs', 'Express', 'NestJs', 'NextJs', 'Angular'],
