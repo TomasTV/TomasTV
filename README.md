@@ -16,8 +16,8 @@ const dev = new DevOps({
   IaC: ['Terraform', 'Serverless'],
   automation: ['Ansible', 'Chef', 'Puppet'],
   orchestrators: ['Kubernetes'],
-  other: ['ArgoCD', 'AWS', 'GCP(Little)', 'DigitalOcean', 'Azure(Little)', 'GitLab']
-  learning: ['Go', 'TensorFlow', 'JupyterNotebook', 'Rust', 'C/C++'],
+  other: ['ArgoCD', 'AWS', 'GCP', 'DigitalOcean', 'Azure', 'GitLab']
+  learning: ['Go', 'TensorFlow', 'JupyterNotebook', 'Rust'],
   code: project => {
     console.log('Starting to code on ' + project);
   }
